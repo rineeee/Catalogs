@@ -1,4 +1,4 @@
-package com.example.catalogservice.messagequeue;
+package com.example.catalogservice.infrastructure.kafka.consumer;
 
 import com.example.catalogservice.repository.CatalogEntity;
 import com.example.catalogservice.repository.CatalogRepository;
