@@ -1,4 +1,4 @@
-package com.example.catalogservice.service;
+package com.example.catalogservice.domain.service;
 
 import com.example.catalogservice.domain.entity.CatalogEntity;
 
