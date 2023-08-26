@@ -1,4 +1,4 @@
-package com.example.catalogservice.controller;
+package com.example.catalogservice.application.rest;
 
 import com.example.catalogservice.repository.CatalogEntity;
 import com.example.catalogservice.service.CatalogService;
