@@ -1,6 +1,6 @@
 package com.example.catalogservice.application.rest;
 
-import com.example.catalogservice.repository.CatalogEntity;
+import com.example.catalogservice.domain.entity.CatalogEntity;
 import com.example.catalogservice.service.CatalogService;
 import com.example.catalogservice.vo.ResponseCatalog;
 import org.modelmapper.ModelMapper;
