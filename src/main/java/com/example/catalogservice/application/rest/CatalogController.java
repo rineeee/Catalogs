@@ -2,7 +2,7 @@ package com.example.catalogservice.application.rest;
 
 import com.example.catalogservice.domain.entity.CatalogEntity;
 import com.example.catalogservice.domain.service.CatalogService;
-import com.example.catalogservice.vo.ResponseCatalog;
+import com.example.catalogservice.application.rest.vo.ResponseCatalog;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
