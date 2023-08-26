@@ -1,7 +1,7 @@
 package com.example.catalogservice.infrastructure.kafka.consumer;
 
 import com.example.catalogservice.repository.CatalogEntity;
-import com.example.catalogservice.repository.CatalogRepository;
+import com.example.catalogservice.infrastructure.db.jpa.CatalogRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
